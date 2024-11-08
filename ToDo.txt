@@ -20,3 +20,5 @@ Projects
 	
 	
 https://chirpy.cotes.page/
+
+https://lbhoe.dev/posts/chirpy-favicon-customization-issues/
